@@ -1,0 +1,15 @@
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\Facture.BLL.dll
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\Facture.BLL.pdb
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\MC1.BO.dll
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\MC1.DAL.dll
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\MyLibsNet.Serialisation.dll
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\Newtonsoft.Json.dll
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\MC1.BO.pdb
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\MC1.DAL.pdb
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\MyLibsNet.Serialisation.pdb
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\bin\Debug\Newtonsoft.Json.xml
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\obj\Debug\Facture.BLL.csprojAssemblyReference.cache
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\obj\Debug\Facture.BLL.csproj.CoreCompileInputs.cache
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\obj\Debug\Facture.BLL.csproj.CopyComplete
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\obj\Debug\Facture.BLL.dll
+D:\ProgramData\Microsoft\source\Facture\Facture.BLL\obj\Debug\Facture.BLL.pdb
