@@ -134,14 +134,6 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\repos\Form1\MC1.BO\MC1.BO.csproj">
-      <Project>{c0fe61e6-e1c2-4fd7-84ad-c8cb5514021b}</Project>
-      <Name>MC1.BO</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\repos\Form1\MC1.DAL\MC1.DAL.csproj">
-      <Project>{b3a6946e-8206-40e4-a441-4deed6ccb849}</Project>
-      <Name>MC1.DAL</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Facture.BLL\Facture.BLL.csproj">
       <Project>{b810543c-615d-438c-a3f7-73b61c0c6ca7}</Project>
       <Name>Facture.BLL</Name>
